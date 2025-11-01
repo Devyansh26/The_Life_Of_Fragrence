@@ -14,10 +14,10 @@ import Contact from './pages/Contact'
 import Login from './pages/Login'
 
 // Dashboard
-import Dashboard from './pages/dashboard/Dashboard'
-import AddProduct from './pages/dashboard/AddProduct'
-import ManageProducts from './pages/dashboard/ManageProducts'
-import EditProduct from './pages/dashboard/EditProduct'
+import Dashboard from './pages/Dashboard/Dashboard'
+import AddProduct from './pages/Dashboard/AddProduct'
+import ManageProducts from './pages/Dashboard/ManageProducts'
+import EditProduct from './pages/Dashboard/EditProduct'
 
 function App() {
   return (
