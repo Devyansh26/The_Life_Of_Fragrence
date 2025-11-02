@@ -22,3 +22,4 @@ pydantic-settings==2.4.0
 # Optional (good to have)
 requests==2.32.3
 gunicorn==21.2.0
+psycopg2-binary
